@@ -1,0 +1,13 @@
+H:\Year 12\Computing\Visual Studio 2015\Compiler\Compiler\bin\Debug\Compiler.exe.config
+H:\Year 12\Computing\Visual Studio 2015\Compiler\Compiler\bin\Debug\Compiler.exe
+H:\Year 12\Computing\Visual Studio 2015\Compiler\Compiler\bin\Debug\Compiler.pdb
+H:\Year 12\Computing\Visual Studio 2015\Compiler\Compiler\obj\Debug\Compiler.exe
+H:\Year 12\Computing\Visual Studio 2015\Compiler\Compiler\obj\Debug\Compiler.pdb
+H:\Year 12\Computing\Visual Studio 2015\Compiler\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Alex\Documents\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\Alex\Documents\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Alex\Documents\Compiler\Compiler\obj\Debug\Compiler.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Compiler\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\Alex\Documents\Compiler\Compiler\obj\Debug\Compiler.pdb

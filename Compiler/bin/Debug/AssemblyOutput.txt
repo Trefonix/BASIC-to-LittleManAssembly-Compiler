@@ -1,0 +1,20 @@
+lstart0 LDA a
+SUB d
+BRP loop0
+BRA outloop0
+loop0 LDA d
+ADD c
+STA d
+LDA d
+SUB b
+BRP TRUE0
+BRA RCODE0
+TRUE0 LDA d
+OUT
+RCODE0 LDA 00
+BRA lstart0
+outloop0 HLT
+a DAT 10
+b DAT 5
+c DAT 1
+d DAT 0
