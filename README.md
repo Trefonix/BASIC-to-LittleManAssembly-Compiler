@@ -32,7 +32,7 @@ Usage: 	if a = b
 Loops:
 You can have any loop as long as it's a while loop.
 Usage: while a = b\n
-print a
+print a\n
 endwhile
 
 
