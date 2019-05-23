@@ -23,6 +23,7 @@ Description: Declares and assigns a memory location for use as a variable labell
 Selection statement:
 
 -if statement
+
 Usage: 	if a = b
 
 -print b
@@ -35,6 +36,7 @@ Usage: 	if a = b
 
 Loops:
 You can have any loop as long as it's a while loop.
+
 Usage: while a = b
 
 print a
