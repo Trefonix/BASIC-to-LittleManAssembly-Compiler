@@ -24,19 +24,19 @@ Selection statement:
 
 -if statement
 Usage: 	if a = b
-		print b
+	print b
 [optional] else
-		print a
+	print a
 	endif
 
 Loops:
 You can have any loop as long as it's a while loop.
-Usage: while a = b
-		print a
+Usage: while a = b	
+	print a
 	endwhile
 
 
 Allowed operators: 
-=
->=
+'='
+'>='
 	
