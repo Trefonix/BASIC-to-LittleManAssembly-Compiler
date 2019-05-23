@@ -9,30 +9,35 @@ How to operate:
 Allowed syntax:
 
 -print
+
 Usage: print a
+
 Description: Prints the variable a to the screen
 
 -input
+
 Usage: input a
+
 Description: Takes a value into the 'INBOX' and then assigns that to the variable a.
 
 -int
 Usage: int a
+
 Description: Declares and assigns a memory location for use as a variable labelled 'a'
 
 Selection statement:
 
--if statement
+if statement
 
-Usage: 	if a = b
+Usage: if a = b
 
--print b
+print b
 
--[optional] else
+[optional] else
 
--print a
+print a
 
--endif
+endif
 
 Loops:
 You can have any loop as long as it's a while loop.
